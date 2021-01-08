@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a Machine Learning Project About Twitter Sentimental Analysis
+- 🔭 I’m currently working on a Machine Learning Project About Sentimental Analysis
 - 🥅 2021 Goals: Learn more about machine learning and learn new frameworks of JS.
 - ⚡ Hobbies: I Love WebScrapping and make my work more effective by Small Python Scripts.
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
