@@ -48,7 +48,7 @@
 
 <img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kishanmodi&show_icons=true&count_private=true" />
 
-[website]: https://kishanxd.ml
+[website]: https://kishanmodi.github.io/kishanxd/
 [facebook]: https://fb.me/K1SHAN
 [twitter]: https://twitter.com/KishanXD
 [youtube]: https://youtube.com/Kishanm1611
