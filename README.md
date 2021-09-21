@@ -45,16 +45,36 @@
 <br />
 
 
-### Github Stats
-
-<img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KishanModi&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-<br />
-<img alt="Kishan Modi's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=KishanModi&theme=dark" />
-
-
 [website]: https://kishanmodi.github.io/kishanxd/
 [facebook]: https://fb.me/K1SHAN
 [twitter]: https://twitter.com/KishanXD
 [youtube]: https://youtube.com/Kishanm1611
 [instagram]: https://instagram.com/Kishan.xd
 [linkedin]: https://linkedin.com/in/modikishan
+
+<br/ >
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  
+  <code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KishanModishow_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KishanModi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
+<div align="center">
+  
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/KishanModi?tab=repositories)!
+
+</div>
