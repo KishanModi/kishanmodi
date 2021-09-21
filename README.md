@@ -65,15 +65,10 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=KishanModi&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="ovi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KishanModi&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="ovi" /></p>
 <br><br><br><br><br>
-
-<hr>
 
 
 <div align="center">
-  
-
 ### Show ❤️ by 🌟 my [repositories](https://github.com/KishanModi?tab=repositories)!
-
 </div>
