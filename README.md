@@ -44,9 +44,13 @@
 
 <br />
 
+
 ### Github Stats
 
-<img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kishanmodi&show_icons=true&count_private=true" />
+<img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KishanModi&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<br />
+<img alt="Kishan Modi's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=KishanModi&theme=dark" />
+
 
 [website]: https://kishanmodi.github.io/kishanxd/
 [facebook]: https://fb.me/K1SHAN
