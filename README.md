@@ -4,8 +4,8 @@
 ## I'm a Student, Developer!
 
 - 🔭 I’m currently working on a Machine Learning Project About Trading Strategy.
-- 🥅 2021 Goals: Learn more about machine learning and learn new frameworks of JS.
-- ⚡ Hobbies: I Love WebScrapping and make my work more effective by Small Python Scripts.
+- 🥅 2021 Goals: Learn Javascript Frameworks and Data Structure.
+- ⚡ Hobbies: I Love WebScrapping and I'd like to make my work more effective by Small Python Scripts.
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
 
 ### Connect with me:
