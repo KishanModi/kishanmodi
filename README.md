@@ -1,7 +1,7 @@
 ### Hi there  I'm Kishan Modi - [Kishan][website] 👋
 ![](https://komarev.com/ghpvc/?username=KishanModi)
 
-## I'm a Student, Developer!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a Machine Learning Project About Trading Strategy.
 - 🥅 2021 Goals: Learn Javascript Frameworks and Data Structure.
