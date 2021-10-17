@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
 
 
-![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KishanModi/KishanModi/raw/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
