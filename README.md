@@ -8,10 +8,6 @@
 - ⚡ Hobbies: I Love WebScrapping and I'd like to make my work more effective by Small Python Scripts.
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
 
-### Github Activity
-
-![snake gif](https://github.com/KishanModi/KishanModi/raw/output/github-contribution-grid-snake.svg)
-
 ### Connect with me:
 [<img align="left" alt="Kishanmodi.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kishanmodi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
