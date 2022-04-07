@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a Machine Learning Project About Trading Strategy.
-- 🥅 2021 Goals: Learn Javascript Frameworks and Data Structure.
+- 🥅 2022 Goals: Sharpen my problem-solving abilities
 - ⚡ Hobbies: I Love WebScrapping and I'd like to make my work more effective by Small Python Scripts.
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
 
@@ -27,7 +27,6 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -47,8 +46,7 @@
 [website]: https://kishanmodi.github.io/kishanxd/
 [facebook]: https://fb.me/K1SHAN
 [twitter]: https://twitter.com/KishanXD
-[youtube]: https://youtube.com/Kishanm1611
-[instagram]: https://instagram.com/Kishan.xd
+[instagram]: https://instagram.com/Kishanmodi_
 [linkedin]: https://linkedin.com/in/modikishan
 
   <hr>
