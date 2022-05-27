@@ -3,7 +3,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a Machine Learning Project About Trading Strategy.
+- 🔭 I’m currently working on different small scale projects.
 - 🥅 2022 Goals: Sharpen my problem-solving abilities
 - ⚡ Hobbies: I Love WebScrapping and I'd like to make my work more effective by Small Python Scripts.
 - 🌱 I’m currently learning JavaScript, Machine Learning And Python
