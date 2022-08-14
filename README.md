@@ -4,9 +4,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on different small scale projects.
-- 🥅 2022 Goals: Sharpen my problem-solving abilities
+- 🥅 2022 Goals: Sharpen my problem-solving abilities, Become Proficient in Full-Stack Development
 - ⚡ Hobbies: I Love WebScrapping and I'd like to make my work more effective by Small Python Scripts.
-- 🌱 I’m currently learning JavaScript, Machine Learning And Python
+- 🌱 I’m currently learning React, BootStrap5 And JAVA.
 
 ### Connect with me:
 [<img align="left" alt="Kishanmodi.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
