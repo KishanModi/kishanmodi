@@ -52,9 +52,9 @@
 <br />
 
 
-[website]: https://kishanmodi.me/portfolio
-[facebook]: https://fb.me/K1SHAN
-[twitter]: https://twitter.com/KishanXD
+[website]: https://kishanmodi.me
+[facebook]: https://fb.me/k1shan
+[twitter]: https://twitter.com/Kishanxd
 [instagram]: https://instagram.com/Kishanmodi_
 [linkedin]: https://linkedin.com/in/kishan-modi
 
