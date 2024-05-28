@@ -52,7 +52,7 @@
 <br />
 
 
-[website]: https://kishanmodi.me
+[website]: https://kishanmodi.com
 [facebook]: https://fb.me/k1shan
 [twitter]: https://twitter.com/Kishanxd
 [instagram]: https://instagram.com/Kishanmodi_
